@@ -271,7 +271,7 @@ a:hover {
     width: 30%;
     height: 1px;
     content: '\a0';
-    background-color: #00979E;
+    background-color: #ffffff;
     margin-left: 20%;
 }
 .title_lines:before {
