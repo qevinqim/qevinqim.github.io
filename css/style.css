@@ -181,7 +181,7 @@ h1 {
     line-height: 2em;
     margin-top: 0%;
     margin-bottom: 0%;
-    letter-spacing: 1vw;
+    letter: spacing .5px;vw;
 }
 
 a.active {
