@@ -125,7 +125,7 @@ body {
 
 .homeheader {
     height: 100vh;
-    background-image: url('img/IpsTypographusimg/B&W portrait.jpg');
+    background-image: url('../img/B&W\ portrait.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -192,7 +192,7 @@ a.active {
     padding-right: 7%;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: 400;
     font-size: 0.8em;
     letter-spacing: 0.2em;
@@ -215,7 +215,7 @@ a.active {
 }
 
 .coverinstagram:hover {
-    color: #00979E
+    color: #e77007
 } 
 
 .coverlinkedin {
@@ -228,7 +228,7 @@ a.active {
 }
 
 .coverlinkedin:hover {
-    color: #00979E
+    color: #e77007
 } 
 
 .coverflickr {
@@ -246,7 +246,7 @@ a.active {
 
 a:hover {
     text-decoration: none !important;
-    color: #00979e;
+    color: #e77007;
 }
 
 .title_lines {
