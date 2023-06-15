@@ -125,7 +125,7 @@ body {
 
 .homeheader {
     height: 100vh;
-    background-image: url('../img/sloparking.jpg');
+    background-image: url('../img/B&W portait.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -181,7 +181,7 @@ h1 {
     line-height: 2em;
     margin-top: 0%;
     margin-bottom: 0%;
-    letter: spacing .5px;vw;
+    letter-spacing: .75px;
 }
 
 a.active {
