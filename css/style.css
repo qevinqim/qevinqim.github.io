@@ -125,7 +125,7 @@ body {
 
 .homeheader {
     height: 100vh;
-    background-image: url('../img/IpsTypographusimg/noparking.jpg');
+    background-image: url('../img/noparking.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -209,7 +209,7 @@ a.active {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 0.8em;
+    font-size: 0.75em;
     letter-spacing: 0.2em;
     color: whitesmoke;
 }
@@ -222,7 +222,7 @@ a.active {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 0.8em;
+    font-size: 0.75em;
     letter-spacing: 0.2em;
     color: whitesmoke;
 }
