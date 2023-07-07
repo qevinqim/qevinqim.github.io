@@ -198,11 +198,22 @@ a.active {
     letter-spacing: 0.2em;
 }
 
-.button{
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 50px; /* Adjust the value to control the oval shape */
+    background-color: #e77007; /* Adjust the background color */
+    color: #fff; /* Adjust the text color */
+    font-size: 18px; /* Adjust the font size */
+    font-family: "Helvetica", sans-serif; /* Specify the font family */
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
     width:100%;
     position: absolute;
-    bottom:10%
-}
+    bottom: 20%;
+  }
 
 .coversocial {
     width:100%;
