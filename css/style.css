@@ -199,7 +199,7 @@ a.active {
 }
 
 .button {
-    display: inline-block;
+    display: block;
     padding: 10px 20px;
     border-radius: 50px; /* Adjust the value to control the oval shape */
     background-color: #e77007; /* Adjust the background color */
@@ -210,15 +210,15 @@ a.active {
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    width:50%;
-    position: absolute;
-    bottom: 25%;
-  }
+    width: 50%;
+    margin: 0 auto; /* Center the button horizontally */
+}
 
 /* Hover effect for the button */
 .button:hover {
-background-color: #FF9800; /* Adjust the hover background color */
+    background-color: #FF9800; /* Adjust the hover background color */
 }
+
 
 .coversocial {
     width:100%;
