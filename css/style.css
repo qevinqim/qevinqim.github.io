@@ -210,9 +210,9 @@ a.active {
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    width:100%;
+    width:50%;
     position: absolute;
-    bottom: 20%;
+    bottom: 25%;
   }
 
 /* Hover effect for the button */
