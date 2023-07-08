@@ -202,7 +202,7 @@ a.active {
     display: block;
     padding: 10px 20px;
     border-radius: 50px; /* Adjust the value to control the oval shape */
-    background-color: #e77007; /* Adjust the background color */
+    background-color: #000000; /* Adjust the background color */
     color: #fff; /* Adjust the text color */
     font-size: 18px; /* Adjust the font size */
     font-family: "Helvetica", sans-serif; /* Specify the font family */
@@ -216,7 +216,7 @@ a.active {
 
 /* Hover effect for the button */
 .button:hover {
-    background-color: #FF9800; /* Adjust the hover background color */
+    background-color: #e77007; /* Adjust the hover background color */
 }
 
 
