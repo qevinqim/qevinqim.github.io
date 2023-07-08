@@ -211,7 +211,7 @@ a.active {
     cursor: pointer;
     transition: background-color 0.3s ease;
     width: 8%;
-    margin: 35% auto; /* Center the button horizontally */
+    margin: 45% auto; /* Center the button horizontally */
 }
 
 /* Hover effect for the button */
