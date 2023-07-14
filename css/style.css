@@ -211,10 +211,10 @@ a.active {
     cursor: pointer;
     transition: background-color 0.3s ease;
     width: 8%;
-    margin: 50% auto; Center the button horizontally */
+    margin: 50% auto; /* Center the button horizontally */
 }
 
-/* Hover effect for the button
+ Hover effect for the button
 .button:hover {
     background-color: #e77007; /* Adjust the hover background color */
     color: #000000;
