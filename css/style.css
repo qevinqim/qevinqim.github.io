@@ -212,7 +212,8 @@ a.active {
     transition: background-color 0.3s ease;
     width: 8%;
     margin: -10% auto; /* Center the button horizontally */
-}
+    position: absolute
+        }
 
  Hover effect for the button
 .button:hover {
