@@ -211,7 +211,6 @@ a.active {
     cursor: pointer;
     transition: background-color 0.3s ease;
     width: 8%;
-    position: absolute;
     margin: -20% auto; /* Center the button horizontally */
         }
 
