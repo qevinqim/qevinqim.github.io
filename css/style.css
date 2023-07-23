@@ -211,7 +211,7 @@ a.active {
     cursor: pointer;
     transition: background-color 0.3s ease;
     width: 8%;
-    margin: -13% auto; /* Center the button horizontally */
+    margin: -14% auto; /* Center the button horizontally */
         }
 
  Hover effect for the button
@@ -224,7 +224,7 @@ a.active {
 .coversocial {
     width:100%;
     position: absolute;
-    bottom: 4%;
+    bottom: 3.5%;
 }
 
 .coverinstagram {
